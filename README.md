@@ -5,8 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/D3FaltXD/tree)
 ![GitHub stars](https://img.shields.io/github/stars/D3FaltXD/tree)
 ![GitHub forks](https://img.shields.io/github/forks/D3FaltXD/tree)
-[![Twitter Follow](https://img.shields.io/twitter/follow/G2Ahri?style=social)](https://twitter.com/intent/follow?screen_name=G2Ahri)
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-sayan-lpu/)
 
 <br>
 
@@ -18,7 +16,6 @@ A fully customizale Link Tree Alternative with premium features
 <br>
 
 # Table of Contents
-- [Demo](#Demo)
 - [Features](#Features)
 - [Installation](#Installation)
 - [Tech-Stack](#Tech-Stack)
@@ -26,13 +23,6 @@ A fully customizale Link Tree Alternative with premium features
 
 <br>
 <br>
-
-# Demo
-
-<img src="images\demo2.png">
-<img src="images\demo1.png">
-<img src="images\demo3.png">
-<img src="images\demo4.png">
 
 
 <br>
